@@ -12,7 +12,7 @@
 |--------------|-------------------------------------------------------------------------|
 | **后端**     | Django, Flask, WinForms, GtkSharp                                       |
 | **语言**     | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (90%)<br>![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) (10%) |
-| **工具链**   | Git, Docker, PostgreSQL, VS Code                                        |
+| **工具链**   | Git, Docker, MySQL, VS Code, VisualStudio, PyCharm, Postman...          |
 
 ## 📊 贡献统计
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peideming&theme=github-compact)
