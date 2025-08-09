@@ -11,7 +11,7 @@
 | 类型         | 技术栈                                                                 |
 |--------------|-------------------------------------------------------------------------|
 | **后端**     | Django, Flask, WinForms, GtkSharp                                       |
-| **语言**     | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (55%)<br>![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) (35%)<br>![HTML/CSS/JS](https://img.shields.io/badge/-Frontend-F0DB4F?logo=javascript&logoColor=black) (10%) |
+| **语言**     | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (90%)<br>![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) (10%) |
 | **工具链**   | Git, Docker, PostgreSQL, VS Code                                        |
 
 ## 📊 贡献统计
